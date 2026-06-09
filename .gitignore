@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Data & indexes (large, regenerable)
+data/
+*.faiss
+*.index
+*.pkl
+
+# Env
+.env
+
+# OS
+.DS_Store
