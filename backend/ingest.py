@@ -45,7 +45,7 @@ def extract_text(html_path: Path) -> str:
     we are not trying to preserve tabular structure here).
     """
     raw = html_path.read_text(encoding="utf-8", errors="ignore")
-    soup = BeautifulSoup(raw, "lxml")
+    soup = BeautifulSoup(raw, "html.parser")
     for tag in soup(["script", "style"]):
         tag.decompose()
     text = soup.get_text(separator="\n")

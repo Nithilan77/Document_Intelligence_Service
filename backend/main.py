@@ -1,15 +1,15 @@
 """Document Intelligence Service — FastAPI entrypoint.
 
-Phase 0: skeleton + health check. The /health endpoint verifies the
-service is up and that Redis is reachable, so `docker-compose up` gives
-an immediate, honest signal that the whole stack is wired correctly.
+Phase 0: skeleton + health check.
+Phase 2: dense retrieval query endpoint.
 """
 import os
 
 import redis
-from fastapi import FastAPI
+from fastapi import FastAPI, Query
+from pydantic import BaseModel
 
-app = FastAPI(title="Document Intelligence Service", version="0.1.0")
+app = FastAPI(title="Document Intelligence Service", version="0.2.0")
 
 REDIS_URL = os.getenv("REDIS_URL", "redis://localhost:6379/0")
 _redis = redis.from_url(REDIS_URL, socket_connect_timeout=2)
@@ -24,3 +24,31 @@ def health():
     except redis.exceptions.RedisError:
         redis_ok = False
     return {"status": "ok", "redis": redis_ok}
+
+
+class RetrievedChunk(BaseModel):
+    chunk_id: str
+    doc_id: str
+    section: str
+    score: float
+    text: str
+
+
+class SearchResponse(BaseModel):
+    query: str
+    k: int
+    results: list[RetrievedChunk]
+
+
+@app.get("/search", response_model=SearchResponse)
+def search_endpoint(
+    q: str = Query(..., description="Query text"),
+    k: int = Query(5, ge=1, le=20),
+):
+    """Dense retrieval: top-k chunks for a query."""
+    # Imported lazily so the app can boot (and /health works) even before
+    # the FAISS index has been built.
+    from retriever import search
+
+    results = search(q, k=k)
+    return {"query": q, "k": k, "results": results}
