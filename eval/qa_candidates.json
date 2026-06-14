@@ -1,0 +1,1551 @@
+[
+  {
+    "question": "What net write-off rate does American Express report on Card Member loans?",
+    "type": "factual",
+    "doc_hint": "axp",
+    "candidates": [
+      {
+        "chunk_id": "axp-20251231::0375::cab34cdf",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "$ 707.5 $ 654.8 $ 610.8 8 % 7 % Proprietary cards-in-force 48.3 46.3 43.8 4 6 Proprietary basic cards-in-force 34.1 32.5 30.7 5 6 Average proprietary basic Card Member spending (dollars) $ 21,215 $ 20,707 $ 20,303 2 2 Total segment assets $ 122,968 $ 114,228 $ 107,158 8 7 Card Member loans and receivables: Card Member ",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0390::0fe92a4d",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "ons) $ 418.0 $ 366.9 $ 329.5 14 % 11 % Proprietary cards-in-force 23.0 21.9 21.0 5 4 Proprietary basic cards-in-force 17.2 16.4 15.6 5 5 Average proprietary basic Card Member spending (dollars) $ 24,822 $ 22,965 $ 21,550 8 7 Total segment assets $ 50,089 $ 42,879 $ 42,234 17 2 Card Member loans and receivables: Card Me",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0798::6ae1e965",
+        "doc_id": "axp-20251231",
+        "section": "Item 16. FORM 10-K SUMMARY",
+        "text": "d have no stated interest rate and are therefore included in the due within one year category. (b) Card Member loans and receivables due after one year represent modification programs offered to Card Members experiencing financial difficulties wherein a long-term concession (more than 12 months) has been granted to the",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0803::a0df260b",
+        "doc_id": "axp-20251231",
+        "section": "Item 16. FORM 10-K SUMMARY",
+        "text": ", Card Member receivables and Other loans. December 31, 2025 2024 (Millions, except percentages) Reserve for credit losses at end of year applicable to Amount Percentage (a) Amount Percentage (a) Card Member loans $ 5,909 92 % $ 5,679 94 % Card Member receivables 180 3 171 3 Other loans 323 5 194 3 Total Reserve for cr",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0363::bc7b5006",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "business (a)(b) 2.0 % 2.0 % 1.8 % 30+ days past due as a % of total consumer and small business (c) 1.3 % 1.3 % 1.3 % Card Member loans: Card Member loans $ 151,832 $ 139,674 $ 125,995 9 % 11 % Credit loss reserves: Beginning balance $ 5,679 $ 5,118 $ 3,747 11 37 Provisions principal, interest and fees 4,067 4,109 3,83",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0382::29928bf4",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "3 1 Total segment assets $ 63,168 $ 58,969 $ 55,361 7 7 Card Member loans and receivables: Card Member loans and receivables $ 56,086 $ 54,592 $ 52,060 3 5 Average Card Member loans and receivables $ 56,711 $ 54,362 $ 50,621 4 7 Net write-off rate principal, interest and fees (a) 2.2 % 2.0 % 1.7 % Net write-off rate pr",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0490::a9a85f84",
+        "doc_id": "axp-20251231",
+        "section": "Item 1C. Cybersecurity",
+        "text": "sactions), less recoveries, as a percentage of the average loan or receivable balance during the period. Net write-off rate principal, interest and fees Includes, in the calculation of the net write-off rate, amounts for interest and fees in addition to principal for Card Member loans, and fees in addition to principal",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0489::adc33849",
+        "doc_id": "axp-20251231",
+        "section": "Item 1C. Cybersecurity",
+        "text": "port. Net card fees Represents the card membership fees earned during the period recognized as revenue over the covered card membership period (typically one year), net of the provision for projected refunds for Card Membership cancellation and deferred acquisition costs. Net interest yield Represents net interest inco",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0343::e8da97b1",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "ber loans and Other loans. (d) Represents net interest income divided by average Card Member loans, Card Member loans HFS, Other loans and Card Member receivables. (e) We present a net write-off rate based on principal losses only (i.e., excluding interest and/or fees) to be consistent with industry convention. In addi",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What interchange cap did the U.S. Federal Reserve set for large-bank debit transactions?",
+    "type": "cross_doc",
+    "doc_hint": "v",
+    "candidates": [
+      {
+        "chunk_id": "v-20250930::0136::633f1b49",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "entral banks in a number of jurisdictions have reviewed or are reviewing these fees, rules and practices. For example: Regulations adopted by the U.S. Federal Reserve cap the maximum U.S. debit interchange reimbursement rate received by large financial institutions at 21 cents plus 5 basis points per transaction, plus ",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0138::578b1976",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "l Reserve acted within its discretion in setting the debit interchange cap. If the District Court of North Dakotas decision is affirmed on appeal and ultimately prevails, it could potentially result in the Federal Reserve setting a significantly lower interchange cap for relevant debit transactions in the U.S. Separate",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0137::d28fc1fe",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "ed networks are available for routing ecommerce debit transactions by July 1, 2023. In October 2023, the Federal Reserve issued a proposal for comment that further lowers debit interchange rates, with a mechanism for automatic adjustment every two years. Finally, in August 2025, the District Court for the District of N",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0122::f8ef66c9",
+        "doc_id": "v-20250930",
+        "section": "Item 1A. Regulatory Risks",
+        "text": "U.S. Dodd-Frank Wall Street Reform and Consumer Act (Dodd-Frank Act) limits interchange reimbursement rates for certain debit card transactions in the U.S.; the European Union (EU) Interchange Fee Regulation (IFR) limits interchange rates in the European Economic Area (EEA) (as discussed below); and the Reserve Bank of",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0139::22044eac",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "ocessed. Finally, some states have passed or are considering passing laws that regulate how interchange can be set and assessed. For example, in May 2024, Illinois passed a law that restricts the assessment of interchange on the state tax and gratuity portions of a transaction, and restricts financial institutions and ",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0140::b3c57e2c",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "20 basis points, respectively. EU member states have the ability to further reduce these interchange levels within their territories. The European Commission has announced its intention to conduct another impact assessment of the IFR, which could result in even lower caps on interchange rates and the expansion of regul",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "Does Mastercard issue cards or extend credit to account holders?",
+    "type": "cross_doc",
+    "doc_hint": "ma",
+    "candidates": [
+      {
+        "chunk_id": "ma-20251231::0361::724076b1",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOL",
+        "text": "ilities strengthen, reinforce and complement each other and are fundamentally interdependent. For the global payments network, Mastercards franchise model sets the standards and ground-rules that balance value and risk across (and allows for interoperability among) all stakeholders. The Company employs a multi-layered ",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0359::161afcda",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOL",
+        "text": "Significant Accounting Policies Organization Mastercard Incorporated and its consolidated subsidiaries, including Mastercard International Incorporated (Mastercard International and together with Mastercard Incorporated, Mastercard or the Company), is a technology company in the global payments industry. Mastercard con",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0270::5fd62c1b",
+        "doc_id": "ma-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "OPERATIONS Item 7. Managements discussion and analysis of financial condition and results of operations The following discussion should be read in conjunction with the consolidated financial statements and notes of Mastercard Incorporated and its consolidated subsidiaries, including Mastercard International Incorporate",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0066::2800b59d",
+        "doc_id": "ma-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "Payment Network Transactions. Our payment network supports what is often referred to as a four-party payments network and includes the following participants: account holder (a person or entity who holds a card or uses another device enabled for payment), issuer (the account holders financial institution), merchant and",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0214::b93b3acf",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "rt our programs and services. Furthermore, we depend on our issuing partners and acquirers to continue to innovate to maintain competitiveness in the market. We do not issue cards or other payment devices, extend credit to account holders or determine the interest rates or other fees charged to account holders. Each is",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0273::41bd7901",
+        "doc_id": "ma-20251231",
+        "section": "Item 7. of our Annual Report on Form 10-K for the year ended December",
+        "text": "stem in which we operate. Mastercard is not a financial institution. We do not issue cards, extend credit, determine or receive revenue from interest rates or other fees charged to account holders by issuers (the account holders financial institutions), nor do we establish the rates charged by acquirers (the merchants ",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0123::d351b487",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. for more detail about our revenue",
+        "text": "competitors both within and outside of the global payments industry. We compete in all categories of payments (including paper-based payments and all forms of electronic payments) as well as in all categories in which we provide services and solutions: General Purpose Payments Networks. We compete worldwide with paymen",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What capital ratios is American Express required to maintain (CET1, Tier 1, Total)?",
+    "type": "factual",
+    "doc_hint": "axp",
+    "candidates": [
+      {
+        "chunk_id": "axp-20251231::0737::ca2c3fd4",
+        "doc_id": "axp-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "text": "and maintained regulatory capital ratios in excess of those required to qualify as well capitalized. The following table presents the regulatory capital ratios: TABLE 21.1: REGULATORY CAPITAL RATIOS (Millions, except percentages) CET 1 capital Tier 1 capital Total capital CET 1 capital ratio Tier 1 capital ratio Total ",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0738::97147eab",
+        "doc_id": "axp-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "text": "n Express Company N/A 6.0 % 10.0 % N/A N/A American Express National Bank 6.5 % 8.0 % 10.0 % 5.0 % N/A Minimum capital ratios (c) 4.5 % 6.0 % 8.0 % 4.0 % 3.0 % Effective Minimum (d) American Express Company 7.0 % 8.5 % 10.5 % 4.0 % 3.0 % American Express National Bank 7.0 % 8.5 % 10.5 % 4.0 % 3.0 % (a) Capital ratios r",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0399::781420d3",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "uacy guidelines that involve quantitative measures of assets, liabilities and certain off-balance sheet items. Failure to maintain minimum regulatory capital levels at American Express or our U.S. bank subsidiary, American Express National Bank (AENB), could affect our status as a financial holding company and cause th",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0400::ca5297db",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "rgeted levels in consideration of debt ratings and regulatory requirements. These infused amounts can affect the capital and liquidity positions at American Express Company or at our subsidiaries. We report our capital ratios using the Basel III capital definitions and the Basel III standardized approach for calculatin",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0638::d87970b5",
+        "doc_id": "axp-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "text": "00 $ 19,151 $ 42,961 American Express Credit Corporation 339 339 Lending Trust 2,100 3,600 4,350 1,000 2,000 13,050 Other 64 128 70 13 275 $ 6,114 $ 12,078 $ 8,120 $ 7,763 $ 3,400 $ 19,151 $ 56,626 Unamortized Underwriting Fees ( 135 ) Unamortized Discount and Premium ( 470 ) Impacts due to Fair Value Hedge Accounting ",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0424::3b87efec",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "ntained our committed, revolving, secured borrowing facility, with a maturity date of September 15, 2028, which gives us the right to sell up to $2.0 billion face amount of eligible AAA certificates from the American Express Credit Account Master Trust (the Lending Trust). These facilities enhance our contingent fundin",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0129::47ea019a",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "ed to comply with the applicable capital adequacy rules established by federal banking regulators. These rules are intended to ensure that bank holding companies and depository institutions (collectively, banking organizations) have adequate capital given their level of assets and off-balance sheet obligations. The fed",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0736::c04cd31a",
+        "doc_id": "axp-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "text": "y, AENB, is subject to supervision and regulation, including regulatory capital and leverage requirements, by the OCC. Under the risk-based capital guidelines of the Federal Reserve, we are required to maintain minimum ratios of CET1, Tier 1 and Total (Tier 1 plus Tier 2) capital to risk-weighted assets, as well as a m",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0132::d3c2fbd4",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "our product constructs, capital distributions and target capital levels, and such rulemaking could result in significantly higher regulatory capital requirements for the Company and AENB. The Company and AENB must each maintain CET1 capital, Tier 1 capital and Total capital ratios of at least 4.5 percent, 6.0 percent a",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0403::23b7ca1c",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "isk conversion factors, before being assigned a risk weight. Off-balance sheet exposures comprise a minimal part of the total risk-weighted assets. Common Equity Tier 1 Risk-Based Capital Ratio Calculated as CET1 capital, divided by risk-weighted assets. CET1 capital is common shareholders equity, adjusted for ineligib",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What was Mastercard's GAAP net revenue and how much did it grow?",
+    "type": "factual",
+    "doc_hint": "ma",
+    "candidates": [
+      {
+        "chunk_id": "ma-20251231::0273::41bd7901",
+        "doc_id": "ma-20251231",
+        "section": "Item 7. of our Annual Report on Form 10-K for the year ended December",
+        "text": "stem in which we operate. Mastercard is not a financial institution. We do not issue cards, extend credit, determine or receive revenue from interest rates or other fees charged to account holders by issuers (the account holders financial institutions), nor do we establish the rates charged by acquirers (the merchants ",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0286::85b1df69",
+        "doc_id": "ma-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "47 0.16 Adjusted - Non-GAAP $ 11,714 58.4 % $ (300) 16.2 % $ 13,541 $ 14.60 Year ended December 31, 2023 Operating expenses Operating margin Other income (expense) Effective income tax rate Net income Diluted earnings per share ($ in millions, except per share data) Reported - GAAP $ 11,090 55.8 % $ (369) 17.9 % $ 11,1",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0527::3eecd8be",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOL",
+        "text": "-K 110 PART II ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOLIDATED FINANCIAL STATEMENTS was approximately 29 % of net revenue in 2025, 30 % in 2024 and 30 % in 2023. No individual country, other than the U.S., generated more than 10% of net revenue in those periods. Mastercard did not have any i",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0270::5fd62c1b",
+        "doc_id": "ma-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "OPERATIONS Item 7. Managements discussion and analysis of financial condition and results of operations The following discussion should be read in conjunction with the consolidated financial statements and notes of Mastercard Incorporated and its consolidated subsidiaries, including Mastercard International Incorporate",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0303::c642a2b6",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. for a further discussion of how we recognize revenue",
+        "text": "llion, or 21%, of total net revenue. The loss of any of these customers or their significant card programs could adversely impact our revenue. MASTERCARD 2025 FORM 10-K 56 PART II ITEM 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Operating Expenses Operating expenses increased",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0277::4324385a",
+        "doc_id": "ma-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "ch includes the 15% global minimum tax rate (Pillar 2 Rules) that took effect in 2025. Additionally, a change in our geographic mix of earnings contributed to the higher effective income tax rates, partially offset by net discrete tax benefits. 19.4% 19.6% up 3.8 ppt up 3.4 ppt Other 2025 financial highlights were as f",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0288::051ca024",
+        "doc_id": "ma-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "** ** (0.1) ppt % % Litigation provisions (1) % 0.3 ppt ppt 1 % 1 % Restructuring charge (2) % 0.7 ppt 0.1 ppt 1 % 1 % Adjusted - Non-GAAP 11 % 0.4 ppt (2.3) ppt 17 % 19 % Currency Impact % 0.3 ppt 0.1 ppt 1 % 1 % Adjusted - Non-GAAP - currency-neutral 11 % 0.7 ppt (2.2) ppt 18 % 21 % Note: Tables may not sum due to ro",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0107::efa5c37c",
+        "doc_id": "ma-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "er levels, including personalized coaching Learning resources and courses for all employees The Mastercard Way The Mastercard Way is the statement of our culture. It consists of three principles: Create value Grow together Move fast These principles address where we are going as an organization, how we work together an",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0276::c7a33f5b",
+        "doc_id": "ma-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "n on our non-GAAP adjustments and the reconciliation to GAAP reported amounts. Key highlights for 2025 as compared to 2024 were as follows: Net revenue GAAP Non-GAAP (currency-neutral) Both the as-reported and currency-neutral net revenue increases were attributable to growth in our payment network and value-added serv",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0412::2abe146f",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOL",
+        "text": "9.0 Other intangible assets, net $ 1,361 12.4 Proforma information related to these acquisitions was not included because the impact on the Company's consolidated results of operations was not considered to be material. Note 3. Revenue Mastercard is a payments network service provider that generates revenue from a wide",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0526::f592ce54",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOL",
+        "text": "exchange activity 113 65 83 Advertising and marketing 929 815 825 Depreciation and amortization 1,143 897 799 Provision for litigation 504 680 539 Investment Income ( 325 ) ( 327 ) ( 274 ) (Gains) losses on equity investments, net 88 29 61 Interest expense 722 646 575 Other (income) expense, net ( 166 ) ( 20 ) 7 Income",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0415::33e91cc7",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOL",
+        "text": "ation solutions, processing and gateway, ACH batch and real-time account-based payments and solutions, and open finance. Revenue from these services and solutions is recognized in the period in which the related services and solutions are performed or transactions occur. MASTERCARD 2025 FORM 10-K 82 PART II ITEM 8. FIN",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What does the company say about competitors having greater scale or resources?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "candidates": [
+      {
+        "chunk_id": "axp-20251231::0195::88311246",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "ds. Some of our competitors have substantially greater scale and resources than we have and may offer richer value propositions or a wider range of programs and services than we offer or may use more effective strategies to acquire and retain more customers, capture a greater share of spending and borrowings, develop m",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0211::e926cd4c",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "nearly-exclusive, relationships with our competitors. These relationships may make it difficult or cost-prohibitive for us to do significant amounts of business with these customers to increase our revenues. In addition, these customers may be more successful and may grow faster than the customers that primarily issue ",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0186::7cae34fd",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "ements with customers through which we offer incentives, pricing discounts and other support that promote our products. In order to stay competitive, we may have to increase the amount of these incentives and pricing discounts so as to meet customer demand for better pricing arrangements and greater rebates and incenti",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0508::030742f8",
+        "doc_id": "axp-20251231",
+        "section": "Item 1C. Cybersecurity",
+        "text": "lements that may materially impact the prices charged to merchants that accept American Express cards; merchant acceptance, surcharging, steering and other differential acceptance practices; the desirability of competitor premium card products and competition for partnerships and premium experiences, services and benef",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0194::7ac2749d",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "we are not able to differentiate ourselves from our competitors, develop compelling value propositions for our customers and/or effectively use emerging technologies to grow in evolving areas such as digital payments and agentic commerce, we may not be able to compete effectively. We believe Visa and Mastercard are lar",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0234::c83305cd",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "matters, including required corporate reporting and disclosures. These requirements have resulted in, and are likely to continue to result in, increased compliance costs for our business and supply chain, which may increase our operating costs. Moreover, as governments, investors and other stakeholders face pressure to",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0233::b87d3463",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "anging needs and emerging technological trends could significantly impede our ability to compete effectively. Our competitors may develop, or partner with companies that develop, products, platforms or technologies that become more widely adopted by consumers, merchants or service providers than ours, including as a re",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0187::2b10e86e",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "uired to modify existing agreements in order to maintain relationships and compete with others in the industry. Some of our competitors are larger with greater financial resources and accordingly may be able to charge lower prices. In addition, to the extent that we offer discounts or incentives under such agreements, ",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0179::9f8f0dc7",
+        "doc_id": "ma-20251231",
+        "section": "Item 8",
+        "text": "tal currencies. We also face competition from companies that provide alternatives to our services and other solutions. Our traditional competitors may have substantially greater financial and other resources than we have, may offer a wider range of programs, services, and payment capabilities than we offer or may use m",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0157::7b0ac3d7",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. for more details",
+        "text": "ur products less desirable to consumers, limit our ability to innovate or offer differentiated products, and/or make proprietary three-party networks or other forms of payment more attractive, ultimately reducing the volume of transactions over our network and our profitability. We are devoting substantial resources to",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0174::74105179",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report, we have certain financial protections pursuan",
+        "text": "tworks and other payment platforms. For more information, please see Item 1Competition above. Our competitors may acquire, develop or make better use of substantially better technology, have more widely adopted delivery channels, or have greater financial resources. They may offer more effective, innovative or a wider ",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0196::365e7d1c",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "etitors, including in some cases a government entity. We may not be able to compete effectively against these threats or respond or adapt to changes in customer behavior, such as Card Member spending and borrowing or merchant acceptance, as effectively as our competitors. Costs such as Card Member rewards and Card Memb",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What climate-related risk does the company say it may not be able to control?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "candidates": [
+      {
+        "chunk_id": "axp-20251231::0294::4f8e8d9f",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "e we provide to customers and adversely impact our business. Our operations, business, customers and partners could be adversely affected by climate-related risks. We may face physical risks related to climate, including rising average global temperatures, rising sea levels and an increase in the frequency and severity",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0295::702df8fc",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "r business, our customers and partners. We may not be able to effectively identify, measure or control our exposure to climate-related risks, particularly given that the timing, nature and severity of the impacts of these risks may not be predictable. We could be criticized for the timing, scope or nature of our climat",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0234::c83305cd",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "matters, including required corporate reporting and disclosures. These requirements have resulted in, and are likely to continue to result in, increased compliance costs for our business and supply chain, which may increase our operating costs. Moreover, as governments, investors and other stakeholders face pressure to",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0192::bc9a9e9e",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "el, further disruptions to the global 22 Table of Contents supply chain and increased prevalence and sophistication of cyberattacks. If international political instability and geopolitical tensions continue or increase, our business and results of operations could be harmed. Hurricanes, wildfires and other natural disa",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0232::fae984a5",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "ence, could decrease the value of our brand, which could adversely affect our business. Environmental, social and governance matters and related stakeholder reaction may impact our reputation, increase legal exposure and/or have other business impacts, which could adversely affect our overall business and/or results of",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0184::6aef485f",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "and Liquidity Risks. You should carefully consider each of the following risks and all of the other information set forth in this Annual Report on Form 10-K, including in Risk Management under MD&A, which describes our approach to identifying, monitoring and managing the risks we assume in conducting our businesses and",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0261::964613bd",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "uld similarly affect our business, increase the costs and complexity of doing business, impact what we are able to charge for, or offer in connection with, our products and services, impose conflicting obligations, and require us to change certain of our business practices and invest significant management attention an",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0230::e025194d",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "dscape in ways that disintermediate or create a negative perception of us. Although we monitor developments for areas of potential risk to our reputation and brand, negative perceptions or publicity could materially and adversely affect our business volumes, revenues, liquidity and profitability. We face increased scru",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0231::61daf981",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "utside of our control, could impact our reputation, colleague hiring and retention, and demand for our products and services. If we are not able to successfully invest in, and compete with respect to, technological developments and new products and services across all our businesses, our revenue and profitability could",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0201::99a522c0",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report. If successful, these efforts could adversely",
+        "text": "are developing expectations which at times may be discordant with each other and with Visas existing strategies and disclosure practices. For example, certain regulators have proposed or adopted, or plan to propose or adopt, rules or standards related to these matters that would apply to our business, including the EUs",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0244::591aad03",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "quirements, we may not identify or address new operational risks. Through human error, fraud or malfeasance, conduct risk can result in harm to customers, legal liability, fines, sanctions, customer remediation and brand damage. Although we maintain systems and controls to help mitigate conduct risk, they may not be ef",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What honor-all-cards or merchant-contract litigation risk is disclosed?",
+    "type": "factual",
+    "doc_hint": "axp",
+    "candidates": [
+      {
+        "chunk_id": "axp-20251231::0274::adb90526",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "reements and/or business practices, substantial monetary damages and damage to our reputation and brand. 31 Table of Contents We are, and have been in the past, a defendant in a number of actions, including legal proceedings, arbitrations and proposed class actions, challenging certain provisions of our card acceptance",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0118::84b2a2a4",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "and Legal proceedings regarding provisions in our merchant contracts, including non-discrimination and honor-all-cards provisions, could have a material adverse effect on our business and result in additional litigation and/or arbitrations, changes to our merchant agreements and/or business practices, substantial monet",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0273::26577702",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "rutiny has continued to increase in a number of areas, and regulatory action could subject us to significant fines, penalties or other requirements resulting in Card Member reimbursements, increased expenses, limitations or conditions on our business activities, and damage to our reputation and our brand, all of which ",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0218::e209cf59",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "lso encounter merchants that accept our cards, but tell their customers that they prefer to accept another type of payment or otherwise seek to suppress use of our cards or certain of our cards, such as limiting the use of our cards for certain transactions. Our Card Members value the ability to use their cards where a",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0117::1e54b2de",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "eams, lower costs, greater scale or ability to pursue and adopt new technologies and less stringent regulatory requirements, and may enable them to disintermediate us from our customers. Additionally, various competitors are integrating more financial services into their product offerings and seeking to attain the bene",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0091::b5b1bb89",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "Acquiring Business Our GMNS reportable operating segment builds and manages relationships with millions of merchants around the world that choose to accept American Express cards. This includes signing new merchants to accept our cards, agreeing on the discount rate (a fee charged to the merchant for accepting our card",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0205::cfe943e2",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "customers, which may lower the value of our products, such as cards with embedded partner value and the cobranded cards we issue to our customers. We also may not renew certain relationships, such as our Amazon and Lowes small business cobrand portfolios, which, as previously disclosed, have been reclassified to held f",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0214::539842f3",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "ies become even larger (such as the largest tech companies) or as evolving technologies and customer preferences alter the payments landscape, we may have to increase the amount of incentives and/or concessions we provide to them. We also face the risk of losing relationships with these parties or that they limit accep",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "How does currency fluctuation affect revenue earned outside the United States?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "candidates": [
+      {
+        "chunk_id": "ma-20251231::0227::06258d62",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "r revenue was generated from activities outside the U.S., which could be transacted in a non-functional currency. Impacts from currency fluctuations are included in our net income. Our risk management activities provide protection with respect to adverse changes in the value of only a limited number of currencies and a",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0296::c5627fa0",
+        "doc_id": "ma-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "omestic assessments and cross-border assessments as well as certain volume-related rebates and incentives. GDV is calculated based on local currency spending volume converted to U.S. dollars and euros using average exchange rates for the period. As a result, our key metrics related to domestic assessments and cross-bor",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0266::95e0e0a7",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report for further discussion on the components of ou",
+        "text": "national 24,367 21,146 18,515 15 % 14 % Net revenue $ 40,000 $ 35,926 $ 32,653 11 % 10 % (1) Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers. 45 Table of Contents Net revenue increased in fiscal 2025 over the prior year primarily due to the ",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0312::1bbfdc84",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "revenue we generate outside the United States is subject to unpredictable fluctuations if the values of other currencies change relative to the U.S. dollar, which could have a material adverse effect on our results of operations. Political and economic conditions could continue to cause changes in the values of currenc",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0295::c7ae42ee",
+        "doc_id": "ma-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "Transaction processing assessments 15,930 13,602 12,067 17% 16% 13% 14% Other network assessments 1,018 936 963 9% 8% (3)% (3)% Foreign Currency Currency Impact Our primary functional currencies are the U.S. dollar, euro, British pound and the Brazilian real. Our overall operating results are impacted by currency trans",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0226::8e2a4fec",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "ia has led, and could further lead, to other legal ramifications and operational challenges, including fines, the nationalization of our subsidiary and any resulting impacts, and/or lawsuits. Standards. Our operations as a global payments network rely in part on global interoperable standards to help facilitate payment",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0336::f020b238",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "ction amount. In some instances, an additional flat transaction fee is assessed as part of the merchant discount, and additional fees may be charged such as a variable fee for card-not-present transactions or for transactions using cards issued outside the United States at merchants located in the United States; Intere",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0311::36bac25b",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "adversely limit our access to the capital markets and adversely affect the cost and other terms upon which we are able to obtain funding. Our ability to raise funding through the securitization market also depends, in part, on the credit ratings of the securities we issue from our securitization trusts. If we are not a",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0743::fbcfc7af",
+        "doc_id": "axp-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "text": "ctice in light of the financial condition of the banking organization. 148 Table of Contents NOTE 22 SIGNIFICANT CREDIT CONCENTRATIONS Concentrations of credit risk exist when changes in economic, industry or geographic factors similarly affect groups of counterparties whose aggregate credit exposure is material in rel",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0366::97d1eec7",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "tions (primarily United States versus outside the United States) and regulatory considerations. Refer to Note 23 to the Consolidated Financial Statements and Business for additional discussion of products and services that comprise each segment. Results of the reportable operating segments generally treat each segment ",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0101::a43d2b28",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "bers and working with our network partners to offer expanded products and services. Fourth, we want to continue to build on our unique global position, seeking ways to use our differentiated business model and global presence as we progress against our other strategic imperatives. Finally, we seek to reimagine our cust",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0195::617056fa",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report. If successful, these efforts could adversely",
+        "text": "of our net revenue is earned outside the U.S. In addition, international cross-border transaction revenue represents a significant part of our net revenue and is an important part of our growth strategy. Our net revenue is dependent on the volume and number of payment transactions made by consumers, governments, and bu",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0302::3e972f80",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. for a further discussion of how we recognize revenue",
+        "text": "tal 2025 2024 2025 2024 2025 2024 2025 2024 Payment network 12% 11% ** ** 1% (1)% 12 % 10 % Value-added services and solutions 18% 17% 3% % 2% (1)% 23 % 17 % Net revenue 14% 13% 1% % 1% (1)% 16 % 12 % Note: Table may not sum due to rounding. ** Not applicable. 1 Includes the translational and transactional impact of cu",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What debit routing requirement must be available for ecommerce transactions?",
+    "type": "cross_doc",
+    "doc_hint": "v",
+    "candidates": [
+      {
+        "chunk_id": "v-20250930::0136::633f1b49",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "entral banks in a number of jurisdictions have reviewed or are reviewing these fees, rules and practices. For example: Regulations adopted by the U.S. Federal Reserve cap the maximum U.S. debit interchange reimbursement rate received by large financial institutions at 21 cents plus 5 basis points per transaction, plus ",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0122::f8ef66c9",
+        "doc_id": "v-20250930",
+        "section": "Item 1A. Regulatory Risks",
+        "text": "U.S. Dodd-Frank Wall Street Reform and Consumer Act (Dodd-Frank Act) limits interchange reimbursement rates for certain debit card transactions in the U.S.; the European Union (EU) Interchange Fee Regulation (IFR) limits interchange rates in the European Economic Area (EEA) (as discussed below); and the Reserve Bank of",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0054::7ed70803",
+        "doc_id": "v-20250930",
+        "section": "Item 7. of this report for a reconciliation of our GAAP to non-GAAP f",
+        "text": "ptance Solutions, Risk and Security Solutions and certain Issuing Solutions; network access; and other maintenance and support services that facilitate transaction and information processing among our clients globally CLIENT INCENTIVES Paid to financial institution clients, sellers and other business partners to grow p",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0065::6f76676b",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report, which include disclosures on how we earn and",
+        "text": "essing beyond earlier implementations like Click to Pay, which provides a simplified and more consistent ecommerce checkout experience by removing time-consuming key entry of personal 8 Table of Contents information and enabling consumer and transaction data to be passed securely between payments network participants. ",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0137::d28fc1fe",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "ed networks are available for routing ecommerce debit transactions by July 1, 2023. In October 2023, the Federal Reserve issued a proposal for comment that further lowers debit interchange rates, with a mechanism for automatic adjustment every two years. Finally, in August 2025, the District Court for the District of N",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0138::578b1976",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "l Reserve acted within its discretion in setting the debit interchange cap. If the District Court of North Dakotas decision is affirmed on appeal and ultimately prevails, it could potentially result in the Federal Reserve setting a significantly lower interchange cap for relevant debit transactions in the U.S. Separate",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0154::a01b71fb",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "licenses are issued to international companies to participate in Chinas domestic payments market. In response, we have been working with Chinese issuers to issue Visa-only branded cards for international travel, and later for domestic transactions should we obtain a BCCI license. However, notwithstanding such efforts, ",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0189::e671f71c",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report. If successful, these efforts could adversely",
+        "text": "ation that increases our compliance and litigation expenses, and ultimately harm our business. We depend on relationships with financial institutions, acquirers, processors, sellers, payment facilitators, ecommerce platforms, fintechs and other third parties. Our relationships with industry participants are complex and",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0155::b90c0346",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "eChat Pay have rapidly expanded into ecommerce, offline and cross-border payments, which could make it difficult for us to compete even if our license is approved in China. NetsUnion Clearing Corp, a Chinese digital transaction routing system, and other such systems could have a competitive advantage in comparison with",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0123::5b2a5ceb",
+        "doc_id": "v-20250930",
+        "section": "Item 1A. Regulatory Risks",
+        "text": "ictions on seller routing choice for the debit and prepaid market segments. Other jurisdictions impose similar limitations, such as the IFRs prohibition in Europe on restrictions that prevent multiple payment brands or functionality on the same card. No-surcharge Rules: We have historically enforced rules that prohibit",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What regulatory category (tailoring framework) is American Express assigned to?",
+    "type": "factual",
+    "doc_hint": "axp",
+    "candidates": [
+      {
+        "chunk_id": "axp-20251231::0121::1d2ed7c2",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "ial products and the operation of payment networks, resulting in changes to certain practices or pricing of card issuers, merchant acquirers and payment networks, and, in some cases, the establishment of broad and ongoing regulatory oversight regimes. The following discussion summarizes elements of the extensive regula",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0122::d19feb78",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "and financial condition. Banking Regulation American Express entities are subject to banking regulation in the United States and in certain jurisdictions internationally. U.S. federal and state banking laws, regulations and policies extensively regulate the Company, TRS and our U.S. bank subsidiary, American Express Na",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0082::89c373aa",
+        "doc_id": "axp-20251231",
+        "section": "(front matter)",
+        "text": "ART I ITEM 1. BUSINESS Overview American Express is a global payments and premium lifestyle brand powered by technology. Founded in 1850 and headquartered in New York, American Express card-issuing, merchant-acquiring and card network businesses offer products and services to a broad range of customers, including consu",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0327::846e64b0",
+        "doc_id": "axp-20251231",
+        "section": "Item 2. PROPERTIES",
+        "text": "t in the building. We also lease space in the building from Brookfields affiliate. Other owned or leased principal locations include American Express offices in Phoenix, Arizona, Sunrise, Florida, Gurgaon and Bangalore, India, Manila, Philippines, Brighton, England, Tokyo, Japan, Kuala Lumpur, Malaysia, Rome, Italy and",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0174::e033f7ca",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "on, among other things, rulemaking and implementation guidance. In Europe, AML/CFT requirements are largely the result of countries transposing the 5th and 6th EU Anti-Money Laundering Directives (and preceding EU Anti-Money Laundering Directives) into local laws and regulations. Numerous other countries have also enac",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0081::9042d916",
+        "doc_id": "axp-20251231",
+        "section": "(front matter)",
+        "text": "references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights or the right of the applicable licensor to these trademarks and trade names. Throughout this report the terms American Express, we, our or us, refer to American Express Company and its su",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0263::3e3bfb51",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "ability to engage in certain business activities or acquisitions or require us to maintain more capital. We are currently a Category III firm for purposes of the U.S. federal bank regulatory agencies tailoring framework, which subjects us to heightened regulatory expectations and more stringent regulatory requirements.",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0765::64cdaadc",
+        "doc_id": "axp-20251231",
+        "section": "Item 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPE",
+        "text": "y 5, 2026, which involves the election of directors. The following information to be included in such proxy statement is incorporated herein by reference: Information included under the caption Corporate Governance at American Express Our Corporate Governance Framework Our Boards Independence Information included under",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0401::6c93abb8",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "mpany 11.1 American Express National Bank 10.9 Total 10.5 American Express Company 13.1 American Express National Bank 13.1 Tier 1 Leverage 4.0 American Express Company 9.8 American Express National Bank 9.0 Supplementary Leverage Ratio 3.0 % American Express Company 8.3 American Express National Bank 7.5 % (a) Represe",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0400::ca5297db",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "rgeted levels in consideration of debt ratings and regulatory requirements. These infused amounts can affect the capital and liquidity positions at American Express Company or at our subsidiaries. We report our capital ratios using the Basel III capital definitions and the Basel III standardized approach for calculatin",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0402::2ec54b63",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "2025: TABLE 16: REGULATORY RISK-BASED CAPITAL COMPONENTS AND RISK-WEIGHTED ASSETS American Express Company ($ in Millions) December 31, 2025 Risk-Based Capital Common Equity Tier 1 $ 27,268 Tier 1 Capital 28,888 Tier 2 Capital 5,025 Total Capital 33,913 Risk-Weighted Assets 259,448 Average Total Assets to calculate the",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0488::eb1e111b",
+        "doc_id": "axp-20251231",
+        "section": "Item 1C. Cybersecurity",
+        "text": "e deposits, overnight sweep accounts, and other interest-bearing demand and call accounts. Locations in force (LIF) Represents proprietary and partner acquired merchant locations where the merchant is enabled to accept American Express. LIF estimates incorporate data provided to us by certain third parties and include ",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0399::781420d3",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "uacy guidelines that involve quantitative measures of assets, liabilities and certain off-balance sheet items. Failure to maintain minimum regulatory capital levels at American Express or our U.S. bank subsidiary, American Express National Bank (AENB), could affect our status as a financial holding company and cause th",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What restrictions exist on seller routing choice for debit and prepaid segments?",
+    "type": "cross_doc",
+    "doc_hint": "v",
+    "candidates": [
+      {
+        "chunk_id": "v-20250930::0122::f8ef66c9",
+        "doc_id": "v-20250930",
+        "section": "Item 1A. Regulatory Risks",
+        "text": "U.S. Dodd-Frank Wall Street Reform and Consumer Act (Dodd-Frank Act) limits interchange reimbursement rates for certain debit card transactions in the U.S.; the European Union (EU) Interchange Fee Regulation (IFR) limits interchange rates in the European Economic Area (EEA) (as discussed below); and the Reserve Bank of",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0136::633f1b49",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "entral banks in a number of jurisdictions have reviewed or are reviewing these fees, rules and practices. For example: Regulations adopted by the U.S. Federal Reserve cap the maximum U.S. debit interchange reimbursement rate received by large financial institutions at 21 cents plus 5 basis points per transaction, plus ",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0123::5b2a5ceb",
+        "doc_id": "v-20250930",
+        "section": "Item 1A. Regulatory Risks",
+        "text": "ictions on seller routing choice for the debit and prepaid market segments. Other jurisdictions impose similar limitations, such as the IFRs prohibition in Europe on restrictions that prevent multiple payment brands or functionality on the same card. No-surcharge Rules: We have historically enforced rules that prohibit",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0148::a8acbe1a",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "tes has drawn attention from some regulators in other parts of the world. Similarly, new regulations involving one product offering may prompt regulators to extend the regulations to other product offerings. For example, credit payments could become subject to similar regulation as debit payments (or vice versa). The R",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0186::507e3025",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report. It may also be difficult or costly for us to",
+        "text": "their relationships with our clients or their agents to maintain and expand the use and acceptance of Visa products. Certain sellers and seller-affiliated groups have been exerting their influence in the global payments system in certain jurisdictions, such as the U.S., Australia, Canada and Europe, to attempt to lower",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0187::d1e02fe1",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report. It may also be difficult or costly for us to",
+        "text": "oncerns regarding how payment security standards and rules may impact debit routing choice and the cost of payment card acceptance. U.S. seller-affiliated groups and processors have expressed concerns regarding the EMV certification process and the roles of industry bodies such as EMVCo and the Payment Card Industry Se",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0137::d28fc1fe",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "ed networks are available for routing ecommerce debit transactions by July 1, 2023. In October 2023, the Federal Reserve issued a proposal for comment that further lowers debit interchange rates, with a mechanism for automatic adjustment every two years. Finally, in August 2025, the District Court for the District of N",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0184::0e73f92e",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report. It may also be difficult or costly for us to",
+        "text": "nsolidation or acquisition of one or more of our largest clients or co-brand partners by a financial institution client or seller with a strong relationship with one of our competitors, it could result in our business shifting to a competitor, which could put us at a competitive disadvantage and harm our business. 28 T",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What net interest yield does American Express report?",
+    "type": "factual",
+    "doc_hint": "axp",
+    "candidates": [
+      {
+        "chunk_id": "axp-20251231::0549::aed2b3bc",
+        "doc_id": "axp-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "text": "( 24,433 ) Cash Flows from Financing Activities Net increase in customer deposits 13,045 10,305 18,915 Net (decrease) increase in short-term borrowings (c) ( 27 ) 207 ( 105 ) Proceeds from long-term debt 24,377 12,602 15,674 Payments of long-term debt ( 18,157 ) ( 10,759 ) ( 10,703 ) Issuance of American Express common",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0637::004d0240",
+        "doc_id": "axp-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "text": "(b) For floating-rate issuances, the stated interest rate on debt is weighted based on the outstanding principal balances and interest rates in effect as of December 31, 2025 and 2024. (c) Interest rates with swaps are only presented when swaps are in place to hedge the underlying debt. The interest rates with swaps ar",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0785::89558a6b",
+        "doc_id": "axp-20251231",
+        "section": "Item 16. FORM 10-K SUMMARY",
+        "text": "abilities along with an analysis of net interest earnings. Consolidated average balances, interest, and average yields are segregated between U.S. and non-U.S. offices. Assets, liabilities, interest income and interest expense are attributed to the United States and outside the United States based on the location of th",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0423::4baad150",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "and cash equivalents, respectively. Refer to Cash Flows below for a discussion of the major drivers impacting cash flows for the year ended December 31, 2025. Depending on the interest rate environment, our funding composition and the amount of liquidity resources we maintain, the level of future net interest income or",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0761::4e058c9f",
+        "doc_id": "axp-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "text": "American Express common shares and other ( 5,588 ) ( 6,020 ) ( 3,650 ) Dividends paid ( 2,271 ) ( 1,999 ) ( 1,780 ) Net cash used in financing activities ( 739 ) ( 6,547 ) ( 1,183 ) Net increase (decrease) in cash and cash equivalents 4,577 ( 2,359 ) 1,464 Cash and cash equivalents at beginning of year 7,293 9,652 8,18",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0787::22a852a1",
+        "doc_id": "axp-20251231",
+        "section": "Item 16. FORM 10-K SUMMARY",
+        "text": "lects interest on deposits from banks and dividends on investments in Federal Reserve stock. (c) Amounts for 2025 and 2024 include Card Member loans HFS and the associated interest income. (d) Average yields for both taxable and non-taxable investment securities have been calculated using amortized cost balances and do",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0081::9042d916",
+        "doc_id": "axp-20251231",
+        "section": "(front matter)",
+        "text": "references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights or the right of the applicable licensor to these trademarks and trade names. Throughout this report the terms American Express, we, our or us, refer to American Express Company and its su",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0490::a9a85f84",
+        "doc_id": "axp-20251231",
+        "section": "Item 1C. Cybersecurity",
+        "text": "sactions), less recoveries, as a percentage of the average loan or receivable balance during the period. Net write-off rate principal, interest and fees Includes, in the calculation of the net write-off rate, amounts for interest and fees in addition to principal for Card Member loans, and fees in addition to principal",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0776::a620a417",
+        "doc_id": "axp-20251231",
+        "section": "Item 60",
+        "text": "(Commission File No. 1-7657) for the year ended December 31, 1988). 10.13 Amendment to American Express Company Salary/Bonus Deferral Plan (incorporated by reference to Exhibit 10.4 of the Companys Quarterly Report on Form 10-Q (Commission File No. 1-7657) for the quarter ended September 30, 1994). 10.14 American Expre",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0775::86fbe25a",
+        "doc_id": "axp-20251231",
+        "section": "Item 60",
+        "text": "rance Plan (incorporated by reference to Exhibit 10.3 of the Companys Quarterly Report on Form 10-Q (Commission File No. 1-7657) for the quarter ended September 30, 1994). 10.10 Amendment to American Express Company Key Executive Life Insurance Plan, effective as of January 22, 2007 (incorporated by reference to Exhibi",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0774::13748931",
+        "doc_id": "axp-20251231",
+        "section": "Item 60",
+        "text": "r ended December 31, 2004). 10.6 Description of American Express Company Pay-for-Performance Deferral Program (incorporated by reference to Exhibit 10.2 of the Companys Current Report on Form 8-K (Commission File No. 1-7657), dated November 22, 2004 (filed January 28, 2005)). 10.7 Amendment to the Pre-2008 Nonqualified",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0338::98e7b188",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "nancial measures may differ from the calculations of similarly titled measures by other companies. Beginning in the third quarter of 2025, we ceased reporting Net interest yield on average Card Member loans, a non-GAAP measure that was computed by dividing adjusted net interest income by average Card Member loans, and ",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0772::6cec7801",
+        "doc_id": "axp-20251231",
+        "section": "Item 15. EXHIBIT AND FINANCIAL STATEMENT SCHEDULES",
+        "text": ", dated May 1, 2023 (filed May 1, 2023)). 4.4 Certain instruments defining the rights of holders of long-term debt securities of the Company and its subsidiaries are omitted pursuant to Section (b)(4)(iii)(A) of Item 601 of Regulation S-K. The Company hereby agrees to furnish copies of these instruments to the SEC upon",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0791::599f8aa5",
+        "doc_id": "axp-20251231",
+        "section": "Item 16. FORM 10-K SUMMARY",
+        "text": "$ 242,417 Percentage of total average liabilities attributable to non-U.S. activities 8.0 % 7.9 % 8.2 % Interest rate spread 8.4 % 8.4 % 8.2 % Net interest income and net average yield on interest-earning assets (d) $ 17,364 8.4 % $ 15,543 8.3 % $ 13,134 8.1 % (a) Averages based on month-end balances. (b) Interest expe",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0400::ca5297db",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": "rgeted levels in consideration of debt ratings and regulatory requirements. These infused amounts can affect the capital and liquidity positions at American Express Company or at our subsidiaries. We report our capital ratios using the Basel III capital definitions and the Basel III standardized approach for calculatin",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0773::55909c2e",
+        "doc_id": "axp-20251231",
+        "section": "Item 60",
+        "text": "rporated by reference to Exhibit 10.1 of the Companys Current Report on Form 8-K (Commission File No. 1-7657), dated November 20, 2006 (filed November 22, 2006)). 10.3 Description of amendments to 19942006 Pay-for-Performance Deferral Programs (incorporated by reference to Exhibit 10.13 of the Companys Annual Report on",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What does the company disclose about no-surcharge rules?",
+    "type": "factual",
+    "doc_hint": "v",
+    "candidates": [
+      {
+        "chunk_id": "v-20250930::0123::5b2a5ceb",
+        "doc_id": "v-20250930",
+        "section": "Item 1A. Regulatory Risks",
+        "text": "ictions on seller routing choice for the debit and prepaid market segments. Other jurisdictions impose similar limitations, such as the IFRs prohibition in Europe on restrictions that prevent multiple payment brands or functionality on the same card. No-surcharge Rules: We have historically enforced rules that prohibit",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0512::e08f0d18",
+        "doc_id": "v-20250930",
+        "section": "Item 8. Financial Statements and Supplementary Data",
+        "text": "ff filed an amended complaint alleging violations of federal and state antitrust laws, state data privacy laws and the constitution, based on, among other things, Visas interchange fees and its assessment of fees for non-compliance with its surcharge rules. The 106 Table of Contents complaint sought to recover damages ",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0505::802630b1",
+        "doc_id": "v-20250930",
+        "section": "Item 8. Financial Statements and Supplementary Data",
+        "text": "es Exchange Act of 1934 for failing to disclose that Visa was in violation of U.S. federal antitrust laws, as alleged in the lawsuit filed by the U.S. Department of Justice on September 24, 2024 (see U.S. Department of Justice matter), as well as claims under Sections 20(a) and 21D of the Exchange Act, and for unjust e",
+        "found_by": [
+          "sparse"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What approval must the company get from the Federal Reserve for capital distributions?",
+    "type": "factual",
+    "doc_hint": "axp",
+    "candidates": [
+      {
+        "chunk_id": "axp-20251231::0398::3f12895b",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. Managements Discussion and Analysis of Financial Condition an",
+        "text": ", such as the issuance of subordinated debt and preferred shares, as well as the exercise of stock options by colleagues, to maintain a strong balance sheet, provide flexibility to support future business growth and distribute excess capital to shareholders through dividends and share repurchases. See Dividends and Sha",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0739::55c9d3f9",
+        "doc_id": "axp-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "text": "c) As defined by the regulations issued by the Federal Reserve and OCC. (d) Represents Basel III minimum capital requirement and applicable regulatory buffers as defined by the federal banking regulators, which includes the stress capital buffer for American Express Company and the capital conservation buffer for Ameri",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0133::e1ceba47",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "mon stock dividends as a percentage of risk-weighted assets. The required minimum capital ratios for the Company may be further increased by a countercyclical capital buffer of up to an additional 2.5 percent of risk-weighted assets, if enacted by the Federal Reserve, which must be held in the form of CET1 capital. The",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0303::65ae78ba",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "ould be materially adversely affected. As a financial institution, we are subject to extensive and complex capital and liquidity requirements. Our failure to meet current or future requirements, whether as a result of adverse business developments or changes in the applicable requirements, could compromise our competit",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0140::ad305486",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "quisition or an event that could result in a material change in its risk profile or financial condition. If the Company is required to resubmit its capital plan, it must receive prior approval from the Federal Reserve for any capital distributions (including common stock dividend payments and share repurchases), other ",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0305::9141ea03",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "s a Category III firm, we are subject to more stringent capital and liquidity requirements, which may further increase if we grow to become a Category II firm. For more information on capital adequacy requirements, see Supervision and Regulation Capital and Liquidity Regulation under Business. We are subject to restric",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0141::8de8e94d",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "o limitations and restrictions on capital distributions if, among other things, (i) the Companys regulatory capital ratios do not satisfy applicable minimum requirements and buffers or (ii) the Company is required to resubmit its capital plan. In general, federal laws and regulations prohibit, without first obtaining t",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0741::8458b06c",
+        "doc_id": "axp-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "text": "ory institution subsidiaries and should not maintain dividend levels that undermine their ability to do so. On an annual basis, we are required to develop and maintain a capital plan, which includes planned dividends. We may be subject to limitations and restrictions on our dividends, if, among other things, (i) our re",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0134::66b8872b",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "announced in August 2024. As a result, the effective minimum ratios for the Company (taking into account the SCB requirement) and AENB (taking into account the CCB requirement) are 7.0 percent, 8.5 percent and 10.5 percent for the CET1 capital, Tier 1 capital and Total capital ratios, respectively. Banking organization",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0742::38cbd4b4",
+        "doc_id": "axp-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "text": "AENB, from making dividend distributions if such distributions are not paid out of available retained earnings or would cause the institution to fail to meet capital adequacy standards. If AENBs risk-based capital ratios do not satisfy minimum regulatory requirements and applicable buffers, it will face graduated const",
+        "found_by": [
+          "sparse"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  }
+]

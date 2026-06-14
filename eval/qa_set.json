@@ -1,0 +1,217 @@
+[
+  {
+    "question": "What net write-off rate does American Express report on Card Member loans?",
+    "type": "factual",
+    "doc_hint": "axp",
+    "gold_chunk_ids": [
+      "axp-20251231::0363::bc7b5006",
+      "axp-20251231::0343::e8da97b1"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What interchange cap did the U.S. Federal Reserve set for large-bank debit transactions?",
+    "type": "cross_doc",
+    "doc_hint": "v",
+    "gold_chunk_ids": [
+      "v-20250930::0136::633f1b49",
+      "v-20250930::0137::d28fc1fe"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "Does Mastercard issue cards or extend credit to account holders?",
+    "type": "cross_doc",
+    "doc_hint": "ma",
+    "gold_chunk_ids": [
+      "ma-20251231::0273::41bd7901",
+      "ma-20251231::0214::b93b3acf"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What capital ratios is American Express required to maintain (CET1, Tier 1, Total)?",
+    "type": "factual",
+    "doc_hint": "axp",
+    "gold_chunk_ids": [
+      "axp-20251231::0738::97147eab",
+      "axp-20251231::0737::ca2c3fd4"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What was Mastercard's GAAP net revenue and how much did it grow?",
+    "type": "factual",
+    "doc_hint": "ma",
+    "gold_chunk_ids": [
+      "ma-20251231::0276::c7a33f5b"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What does the company say about competitors having greater scale or resources?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "gold_chunk_ids": [
+      "axp-20251231::0195::88311246",
+      "ma-20251231::0179::9f8f0dc7"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What climate-related risk does the company say it may not be able to control?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "gold_chunk_ids": [
+      "axp-20251231::0295::702df8fc",
+      "axp-20251231::0294::4f8e8d9f"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What honor-all-cards or merchant-contract litigation risk is disclosed?",
+    "type": "factual",
+    "doc_hint": "axp",
+    "gold_chunk_ids": [
+      "axp-20251231::0118::84b2a2a4",
+      "axp-20251231::0273::26577702"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "How does currency fluctuation affect revenue earned outside the United States?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "gold_chunk_ids": [
+      "axp-20251231::0312::1bbfdc84",
+      "ma-20251231::0227::06258d62"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What debit routing requirement must be available for ecommerce transactions?",
+    "type": "cross_doc",
+    "doc_hint": "v",
+    "gold_chunk_ids": [
+      "v-20250930::0137::d28fc1fe"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What regulatory category (tailoring framework) is American Express assigned to?",
+    "type": "factual",
+    "doc_hint": "axp",
+    "gold_chunk_ids": [
+      "axp-20251231::0263::3e3bfb51"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What restrictions exist on seller routing choice for debit and prepaid segments?",
+    "type": "cross_doc",
+    "doc_hint": "v",
+    "gold_chunk_ids": [
+      "v-20250930::0123::5b2a5ceb"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What net interest yield does American Express report?",
+    "type": "factual",
+    "doc_hint": "axp",
+    "gold_chunk_ids": [
+      "axp-20251231::0791::599f8aa5",
+      "axp-20251231::0338::98e7b188"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What approval must the company get from the Federal Reserve for capital distributions?",
+    "type": "factual",
+    "doc_hint": "axp",
+    "gold_chunk_ids": [
+      "axp-20251231::0140::ad305486",
+      "axp-20251231::0141::8de8e94d"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "How does the business make most of its money?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "gold_chunk_ids": [
+      "v-20250930::0072::7e427e1d",
+      "v-20250930::0071::2266e9ea"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What could happen if a big technology firm decided to enter payments?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "gold_chunk_ids": [
+      "ma-20251231::0184::c16c1ac5",
+      "ma-20251231::0182::ac6b74f7"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "Why might extreme weather hurt the company's operations?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "gold_chunk_ids": [
+      "v-20250930::0199::9afb03c1",
+      "axp-20251231::0294::4f8e8d9f"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What happens to earnings when the dollar strengthens against other currencies?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "gold_chunk_ids": [
+      "axp-20251231::0462::93b8c80f",
+      "axp-20251231::0461::bc1f2e19"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "Why could a downturn in consumer spending hurt the lender specifically?",
+    "type": "conceptual",
+    "doc_hint": "axp",
+    "gold_chunk_ids": [
+      "axp-20251231::0187::d4ce680b",
+      "axp-20251231::0297::6a63761e"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "What makes it hard for the company to keep large partners from leaving?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "gold_chunk_ids": [
+      "axp-20251231::0208::a49fd189",
+      "v-20250930::0207::c2911790"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "How could new privacy or data rules raise the company's costs?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "gold_chunk_ids": [
+      "axp-20251231::0286::64e2fe0b",
+      "ma-20251231::0163::067691f3"
+    ],
+    "_verified": true
+  },
+  {
+    "question": "Why does the company depend on banks to put its cards in customers' hands?",
+    "type": "conceptual",
+    "doc_hint": "ma",
+    "gold_chunk_ids": [
+      "ma-20251231::0214::b93b3acf"
+    ],
+    "_verified": true
+  }
+]

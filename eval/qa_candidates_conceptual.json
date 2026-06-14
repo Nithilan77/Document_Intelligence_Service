@@ -1,0 +1,903 @@
+[
+  {
+    "question": "How does the business make most of its money?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "candidates": [
+      {
+        "chunk_id": "axp-20251231::0345::595b51e1",
+        "doc_id": "axp-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "f our merchant network contributed to our growth, as we added millions of new merchant locations globally in 2025 and continued to increase coverage across our top international countries. Net income for the year was $10.8 billion, or $15.38 per share, compared with net income of $10.1 billion, or $14.01 per share, a y",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0750::4cbf7a34",
+        "doc_id": "axp-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "text": "Marketing 3,187 1,331 1,319 393 6,230 22 6,252 Salaries and employee benefits and other operating expenses 5,293 3,381 3,297 2,110 14,081 1,922 16,003 Total expenses 25,037 11,878 10,566 3,713 51,194 1,984 53,178 Pretax income (loss) $ 6,810 $ 3,668 $ 1,603 $ 3,968 $ 16,049 $ ( 2,254 ) $ 13,795 Total assets $ 122,968 $",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0375::9c5d7c93",
+        "doc_id": "v-20250930",
+        "section": "Item 8. Financial Statements and Supplementary Data",
+        "text": "pany allocated $ 139 million of the purchase consideration to technology, customer relationships, other net assets acquired and deferred tax liabilities and the remaining $ 790 million to goodwill. Note 3Revenue The nature, amount, timing and uncertainty of the Companys revenue and cash flows and how they are affected ",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0504::4de2a49c",
+        "doc_id": "axp-20251231",
+        "section": "Item 1C. Cybersecurity",
+        "text": "zation of offers, and balance expense control and investments in the business; managements investment optimization process and its ability to develop premium value propositions and drive customer demand; managements identification and assessment of attractive investment opportunities and decisions regarding the timing ",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0104::cd33c9f4",
+        "doc_id": "ma-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "l business solutions (providing real-time data and financial insights to drive informed decision-making). Our People As of December 31, 2025, we employed approximately 39,800 persons globally, of which approximately 70% were employed outside of the U.S. in more than 90 countries. Our employee base is predominantly full",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0525::790bf4ff",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOL",
+        "text": "allocate resources, including whether to reinvest profits into the Payment Solutions segment or into other business activities such as for acquisitions, to pay dividends or for share repurchases, based on net income as reported on the consolidated statements of operations (Consolidated Net Income). The CODM uses Consol",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0119::938838de",
+        "doc_id": "v-20250930",
+        "section": "Item 1A. Regulatory RisksGovernment-imposed obligations and/or restric",
+        "text": "continue to utilize our network of networks strategy to facilitate the movement of money. We believe Visa is well-positioned competitively due to our global brand, our broad set of payment products, CMS offerings and value-added services and our proven track record of processing payment transactions securely and reliab",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0134::c48c20b6",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. for more detail and examples of the regulation to which we ar",
+        "text": "k platform, as a specified service provider, and Mastercard as a recognized payment system, which includes supervisions and examination requirements. We have also been designated by certain jurisdictions as critical infrastructure, which includes cyber and physical security resilience requirements and related reporting",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0292::e95fdec9",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report. We have established policies and control proc",
+        "text": "applied consistently from period to period. However, actual results could differ from our assumptions and estimates, and such differences could be material. We believe that the following accounting estimates are the most critical to fully understand and evaluate our reported financial results, as they require our most ",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0072::7e427e1d",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report, which include disclosures on how we earn and",
+        "text": "ion and improving the payments and money movement experience across all payment flows, beyond C2B, through our network of networks. These include P2P, B2C, B2B and G2C payments, which provide some of the largest payment opportunities in the world. Representing a total addressable opportunity of approximately $200 trill",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0071::2266e9ea",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report, which include disclosures on how we earn and",
+        "text": "Second, we leverage A2A networks to deliver Visa-branded A2A products, most notably through Tink, our open banking solution in regions, such as Europe and Latin America. Tink enables open banking and data exchange for A2A transactions. Since acquiring Tink in 2022, we have scaled our open banking payments network, reac",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0062::93e0aaa7",
+        "doc_id": "ma-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "icial intelligence (AI) assets, technology, platforms and expertise. These products and services are designed to make commerce smarter, more secure and more personal. We follow our Data and Tech Responsibility Principles in how we design, implement and deliver those solutions. Our Privacy by Design, Data by Design and ",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0225::ed4afb0e",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "yond our expectations, we may be unable to offset the financial impact by decreasing investments in other areas of the business or operating expenses or increasing revenues such as fee-based revenues, or both, particularly in the current regulatory and competitive environment. Our brand and reputation are key assets of",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What could happen if a big technology firm decided to enter payments?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "candidates": [
+      {
+        "chunk_id": "ma-20251231::0183::42db9b86",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "hhold rights to data we use to power our solutions in order to support their own potential future solutions, potentially impacting the effectiveness of our solutions. In addition, governments may promote their own national or international payments platforms, potentially putting us at a competitive disadvantage in thos",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0191::27f7db24",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "xpenses and/or other operational impacts. Our future success will depend, in part, on our ability to anticipate, develop or adapt to technological changes and evolving industry standards. If we fail to sufficiently develop and adopt new technologies, or improve and keep pace with current technologies and reflect such t",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0184::c16c1ac5",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "our additional payments capabilities. Fintechs and technology companies could develop platforms or networks that disintermediate us from digital payments as well as develop products or services that compete with our customers and could diminish demand for our products and services. In addition, we face a heightened ris",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0207::c2911790",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report",
+        "text": "more quickly and better serve consumers. Rapid adoption and novel uses of GenAI and agentic commerce across the marketplace may also introduce unique and unpredictable security risks to our systems, information, and the payments ecosystem. In addition to our own initiatives and innovations, we work closely with third p",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0205::60846def",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report. If successful, these efforts could adversely",
+        "text": "ding of our clients or concurrent settlement failures or insolvencies involving more than one of our largest clients, several of our smaller clients, significant sponsor banks through which non-financial institutions participate in the Visa network, or systemic operational 31 Table of Contents failures could expose us ",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0182::ac6b74f7",
+        "doc_id": "ma-20251231",
+        "section": "Item 1. Certain of our competitors have developed alternative, e-comm",
+        "text": "TERCARD 2025 FORM 10-K 31 PART I ITEM 1A. RISK FACTORS Disintermediation from stakeholders both within and outside of the payments value chain could harm our business. As the payments industry continues to develop and change, we face disintermediation and related risks, including the following: Parties that process our",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0277::6635e16f",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "t our business. As outsourcing, specialization of functions, third-party digital services and technology innovation within the payments industry and related service functions increase (including with respect to mobile technologies, tokenization, big data, AI and cloud-based solutions), more third parties are involved i",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0305::9141ea03",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "s a Category III firm, we are subject to more stringent capital and liquidity requirements, which may further increase if we grow to become a Category II firm. For more information on capital adequacy requirements, see Supervision and Regulation Capital and Liquidity Regulation under Business. We are subject to restric",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0097::a060a818",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report, which include disclosures on how we earn and",
+        "text": "ducts and services as well as innovative brand and marketing efforts. In line with our commitment to an expansive and diverse range of partnerships for the benefit of our stakeholders, Visa is a sponsor of top entertainment and sports events including the FIFA World Cup 2026 TM , the Olympic and Paralympic Games and th",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0263::3e3bfb51",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "ability to engage in certain business activities or acquisitions or require us to maintain more capital. We are currently a Category III firm for purposes of the U.S. federal bank regulatory agencies tailoring framework, which subjects us to heightened regulatory expectations and more stringent regulatory requirements.",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0128::c7b1dbdc",
+        "doc_id": "axp-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "udential requirements, single-counterparty credit limits and additional stress tests, which in some cases are subject to a transition period. AENB, as a depository institution subsidiary of a Category III firm, is also subject to certain enhanced prudential standards under these tailoring rules as described below. Furt",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0180::556806ce",
+        "doc_id": "v-20250930",
+        "section": "Item 1A. Regulatory Risks",
+        "text": "e mature markets, stablecoins could achieve broad adoption through regulated issuance by traditional banks, fintechs and other new entrants, as well as by being integrated in closed loop systems operated by large digital ecosystems and platforms. Parties that access our payment credentials, tokens and technologies, inc",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0193::dc26fdbc",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. Furthermore, the complexity of this payment technology requir",
+        "text": "ity of this payment technology requires careful management to address information security vulnerabilities that are different from those faced on our payment network. Operational difficulties, such as the temporary unavailability of our services or products, or information security breaches on our real-time account-bas",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0190::4341dd3d",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report. If successful, these efforts could adversely",
+        "text": "ves from us. As emerging participants such as fintechs enter the payments industry, we engage in discussions to address the role they may play in the ecosystem, whether as, for example, an issuer, seller, ecommerce platform or digital wallet provider. As these and other relationships become more prevalent and take on a",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "Why might extreme weather hurt the company's operations?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "candidates": [
+      {
+        "chunk_id": "axp-20251231::0294::4f8e8d9f",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "e we provide to customers and adversely impact our business. Our operations, business, customers and partners could be adversely affected by climate-related risks. We may face physical risks related to climate, including rising average global temperatures, rising sea levels and an increase in the frequency and severity",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0192::bc9a9e9e",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "el, further disruptions to the global 22 Table of Contents supply chain and increased prevalence and sophistication of cyberattacks. If international political instability and geopolitical tensions continue or increase, our business and results of operations could be harmed. Hurricanes, wildfires and other natural disa",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0234::c83305cd",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "matters, including required corporate reporting and disclosures. These requirements have resulted in, and are likely to continue to result in, increased compliance costs for our business and supply chain, which may increase our operating costs. Moreover, as governments, investors and other stakeholders face pressure to",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0207::f2cb1b22",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. for more detail concerning related legal risks and obligation",
+        "text": "usiness and results of operations. Service disruptions that cause us to be unable to process transactions or service our customers could reduce our operational resilience and materially affect our overall business and results of operations. Our transaction switching systems and other offerings may experience interrupti",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0184::6aef485f",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "and Liquidity Risks. You should carefully consider each of the following risks and all of the other information set forth in this Annual Report on Form 10-K, including in Risk Management under MD&A, which describes our approach to identifying, monitoring and managing the risks we assume in conducting our businesses and",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0188::0af634b9",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "different ways. Our business is subject to the effects of geopolitical conditions, weather, natural disasters and other catastrophic events. Geopolitical conditions, terrorist attacks, military conflicts, supply chain issues, natural disasters, severe weather, widespread health emergencies or pandemics, information or ",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0198::059ca252",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report. If successful, these efforts could adversely",
+        "text": "operations in other regions. In March 2022, we suspended our operations in Russia due to economic sanctions imposed on Russia, impacting Visa and its clients. As a result, we are no longer generating revenue from domestic and cross-border activities related to Russia. The war in Ukraine and the ongoing instability in t",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0225::65d701a9",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "al conflicts, as well as expansion into regional or global conflicts, and the resulting impacts to our business The threat of terrorism and major environmental and extreme weather events (including those related to climate change) The impact of and uncertainty that could result from any of these events or factors could",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0199::9afb03c1",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report. If successful, these efforts could adversely",
+        "text": "ing frequency of extreme weather events, impacts on or failures of the power grid, and natural disasters have to varying degrees negatively impacted our operations, clients, third-party suppliers, activities, and cross-border travel and spend. Any decline in cross-border travel and spend would impact our cross-border v",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What happens to earnings when the dollar strengthens against other currencies?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "candidates": [
+      {
+        "chunk_id": "ma-20251231::0227::06258d62",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "r revenue was generated from activities outside the U.S., which could be transacted in a non-functional currency. Impacts from currency fluctuations are included in our net income. Our risk management activities provide protection with respect to adverse changes in the value of only a limited number of currencies and a",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0461::bc1f2e19",
+        "doc_id": "axp-20251231",
+        "section": "Item 1C. Cybersecurity",
+        "text": "ted and expenses incurred in foreign currencies, which impact earnings. These foreign exchange risks are managed primarily by entering into foreign exchange spot transactions or hedged with foreign exchange forward contracts when the hedge costs are economically justified and in notional amounts designed to offset pret",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0462::93b8c80f",
+        "doc_id": "axp-20251231",
+        "section": "Item 1C. Cybersecurity",
+        "text": "of foreign subsidiary equity balances, including related foreign exchange forward contracts outstanding, a hypothetical 10 percent strengthening of the U.S. dollar would result in an immaterial reduction in other comprehensive income and equity as of December 31, 2025. With respect to anticipated earnings denominated i",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0296::c5627fa0",
+        "doc_id": "ma-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "omestic assessments and cross-border assessments as well as certain volume-related rebates and incentives. GDV is calculated based on local currency spending volume converted to U.S. dollars and euros using average exchange rates for the period. As a result, our key metrics related to domestic assessments and cross-bor",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0283::06282d75",
+        "doc_id": "ma-20251231",
+        "section": "Item 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AN",
+        "text": "prior periods results using the current periods exchange rates for both the translational and transactional impacts on operating results. The impact of currency translation represents the effect of translating operating results where the functional currency is different from our U.S. dollar reporting currency. The impa",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0301::0a26fd18",
+        "doc_id": "v-20250930",
+        "section": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+        "text": "educes, but does not entirely eliminate, the impact of foreign currency exchange rate movements. As of September 30, 2025 and 2024, the effect of a hypothetical 10% weakening in the value of the functional currencies is estimated to create an additional fair value loss of approximately $422 million and $329 million, re",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0330::44478def",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. Foreign Exchange Risk",
+        "text": "es resulting from fluctuations of foreign currencies against our functional currencies, principally the U.S. dollar and euro. A hypothetical 10% adverse change in the value of the functional currencies could result in a fair value loss of approximately $405 million and $475 million on our foreign exchange derivative co",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0456::c98d7eb2",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOL",
+        "text": "lated other comprehensive income related to the net investment hedges was driven by the appreciation of the euro against the U.S. dollar. During 2024, the increase in the accumulated other comprehensive income related to the net investment hedges was driven by the depreciation of the euro and British pound against the ",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0365::22010321",
+        "doc_id": "v-20250930",
+        "section": "Item 8. Financial Statements and Supplementary Data",
+        "text": "dollar for the majority of its foreign operations except for Visa Europe Limited (Visa Europe) whose functional currency is the Euro. Transactions denominated in currencies other than the applicable functional currency are converted to the functional currency at the exchange rate on the transaction date. At period end,",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0329::3c89a7ec",
+        "doc_id": "ma-20251231",
+        "section": "Item 7A. Quantitative and qualitative disclosures about market risk",
+        "text": "sees the implementation of policies governing our funding, investments and use of derivative financial instruments to manage these risks. Foreign currency and interest rate exposures are managed through our risk management activities, which are discussed further in Note 21 (Derivative and Hedging Instruments) to the co",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0312::1bbfdc84",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "revenue we generate outside the United States is subject to unpredictable fluctuations if the values of other currencies change relative to the U.S. dollar, which could have a material adverse effect on our results of operations. Political and economic conditions could continue to cause changes in the values of currenc",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "Why could a downturn in consumer spending hurt the lender specifically?",
+    "type": "conceptual",
+    "doc_hint": "axp",
+    "candidates": [
+      {
+        "chunk_id": "axp-20251231::0186::1ce2a867",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "posits with us. Factors such as consumer spending and confidence, household income and housing prices, levels of unemployment and underemployment, business investment and inventory levels, bankruptcies, geopolitical instability, public policy decisions and uncertainty, government spending and debt, international trade ",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0297::6a63761e",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "h, unemployment, inflation, structural changes in the economy and interest rates, may result in greater delinquencies that lead to greater credit losses. A customers ability and willingness to repay us can be negatively impacted not only by economic, market, political and social conditions but also by a customers other",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0185::17fa1a16",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "also adversely affect our business. Strategic and Reputational Risks Macroeconomic conditions are a major driver of our results of operations and changes in the business and economic environment may materially adversely affect our business. We offer a broad array of products and services to consumers, small businesses,",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0296::4002c538",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "response or perceived lack of response to climate and environmental issues. Credit, Market and Liquidity Risks We are exposed to credit risk and trends that affect Card Member spending and the ability of customers and partners to pay us, which could have a material adverse effect on our results of operations and financ",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0501::9c36968d",
+        "doc_id": "axp-20251231",
+        "section": "Item 1C. Cybersecurity",
+        "text": "ation of our strategy to capture spending and borrowings, or from changes in consumer behavior that affect loan and receivable balances (e.g., paydown and revolve rates); changes in the levels of customer acquisitions and the credit profiles of new customers acquired; financial stress and volume of bankruptcies of Card",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0187::d4ce680b",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "household income, consumer spending, corporate earnings and business investment, which may negatively impact spending on our cards and demand for our products, and increase delinquencies and write-off rates. Spending by our premium consumer Card Members, for example, is sensitive to personal discretionary spending leve",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0496::6ec769c3",
+        "doc_id": "axp-20251231",
+        "section": "Item 1C. Cybersecurity",
+        "text": "ur business activities, limit our ability to pursue business opportunities, require changes to business practices or alter our relationships with Card Members, partners and merchants; our ability to grow revenues net of interest expense and the sustainability of our future growth, which could be impacted by, among othe",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0221::e56de512",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "orts to promote card usage or attract new customers, including through marketing and promotion, merchant acceptance and Card Member rewards and services, or to effectively control the costs of such investments, all of which may materially impact our profitability. Revenue growth is dependent on increasing consumer and ",
+        "found_by": [
+          "sparse"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "What makes it hard for the company to keep large partners from leaving?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "candidates": [
+      {
+        "chunk_id": "v-20250930::0183::347ea967",
+        "doc_id": "v-20250930",
+        "section": "Item 1A. Regulatory Risks",
+        "text": "ution clients may decide to terminate our contractual relationship on relatively short notice without paying significant early termination fees. Because a significant portion of our net revenue is concentrated among our largest clients, the loss of business from any one of these larger clients could harm our business, ",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0209::1317e4fb",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. for more detail concerning related legal risks and obligation",
+        "text": "e that our business would be immune to these risks. Due to the intrinsic importance of our switching systems to our business, any interruption or degradation could adversely affect the perception of the reliability of products carrying our brands and materially adversely affect our overall business and our results of o",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0207::b80dcc69",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "partners among card issuers and networks. The loss of exclusivity arrangements with business partners, the loss of the partner relationship altogether (whether by non-renewal at the end of the contract period, such as the end of our relationship with Costco in the United States in 2016, or as the result of a merger, le",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0208::a49fd189",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "ated with the loss of any of our key business partners could harm our reputation, making it more difficult to attract and retain Card Members and merchants, and could weaken our negotiating position with our remaining and prospective business partners. Arrangements with our business partners represent a significant por",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0209::bd4c8856",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "ess partners across many aspects of our company and our arrangements with business partners represent a significant portion of our business. For example, our two largest redemption partners are Amazon and Delta. Some of our partners manage certain aspects of our customer relationships, such as our OptBlue program parti",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0211::e926cd4c",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "nearly-exclusive, relationships with our competitors. These relationships may make it difficult or cost-prohibitive for us to do significant amounts of business with these customers to increase our revenues. In addition, these customers may be more successful and may grow faster than the customers that primarily issue ",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0098::1099f85d",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report, which include disclosures on how we earn and",
+        "text": "rm the backbone of what Visa does and provide security, reliability, uptime and operational excellence, all while fueling our product development and innovation. Visas leading technology platforms comprise software, hardware, data centers and a large telecommunications infrastructure. Visas four global data centers are",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0089::44fa05c8",
+        "doc_id": "ma-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "mber of transactions we switch through our differentiated services, increasing approval rates by utilizing inputs from our network and lifting spend and activation rates through personalized campaigns and data-driven strategies. Creating solutions to unlock new blockchain-based business models. We continue to expand ou",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0090::0c5b3343",
+        "doc_id": "ma-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "rcard Developers platform makes it easy for customers and partners to leverage our many digital assets and services. By providing a single access point with tools and capabilities to find APIs across a broad range of Mastercard services, we enable easy integration of our services into new and existing solutions. Identi",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0359::161afcda",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOL",
+        "text": "Significant Accounting Policies Organization Mastercard Incorporated and its consolidated subsidiaries, including Mastercard International Incorporated (Mastercard International and together with Mastercard Incorporated, Mastercard or the Company), is a technology company in the global payments industry. Mastercard con",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0213::0235b61b",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "usiness. Consolidation could also produce a smaller number of large customers, which could increase their bargaining power and lead to lower prices and/or more favorable terms for our customers. These developments could materially and adversely affect our results of operations. Our business significantly depends on the",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0207::c2911790",
+        "doc_id": "v-20250930",
+        "section": "Item 8. of this report",
+        "text": "more quickly and better serve consumers. Rapid adoption and novel uses of GenAI and agentic commerce across the marketplace may also introduce unique and unpredictable security risks to our systems, information, and the payments ecosystem. In addition to our own initiatives and innovations, we work closely with third p",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0256::4131891d",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "nagement issues, terrorism, computer viruses, vulnerabilities or failures in hardware or software, physical or electronic break-ins, or other operational issues or similar events. Due to the interconnectivity and complexity of information systems and their reliance on common systems, software and vendors (e.g., large t",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0206::5f0e149e",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "ur Card Member loans outstanding. We regularly seek to extend or renew cobrand and other partner arrangements in advance of the end of the contract term and face the risk that existing relationships will be renegotiated with less favorable terms for us or that we may be unable to renegotiate on terms that are acceptabl",
+        "found_by": [
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0210::ca3a4cd0",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "us. In addition, we may be obligated to make or accelerate payments to certain business partners such as cobrand partners upon the occurrence of certain triggering events such as a 24 Table of Contents shortfall in certain performance and revenue levels. If we are not able to effectively manage these triggering events,",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "How could new privacy or data rules raise the company's costs?",
+    "type": "conceptual",
+    "doc_hint": null,
+    "candidates": [
+      {
+        "chunk_id": "ma-20251231::0162::972b0593",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "lopments prevent us from utilizing our global switching capabilities for domestic or regional customers. In addition, to the extent a jurisdiction determines us not to be in compliance with regulatory requirements (including those related to data localization), we have been, and may again in the future be, subject to r",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0162::ad9307c0",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "o established specific legal requirements for data localization, such as where personal data must remain stored in the country. The global proliferation of new privacy and data protection laws may lead to inconsistent and conflicting requirements or legal interpretations, which create an uncertain regulatory environmen",
+        "found_by": [
+          "dense",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0163::067691f3",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "rsely impact our ability to compete in these markets. Privacy, Data, AI and Information Security Regulation and enforcement of privacy, data, AI, information security and the digital economy could increase our costs and lead to legal claims and fines, as well as negatively impact our growth and reputation. We are subje",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0160::7de1fa91",
+        "doc_id": "v-20250930",
+        "section": "Item 1G. overnment Regulation",
+        "text": "yments volume and impact the net revenue we generate in those countries; decrease the number of Visa products issued or processed; impede us from utilizing our global processing capabilities and controlling the quality of the services supporting our brands; restrict our activities; limit our growth and the ability to i",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "axp-20251231::0286::64e2fe0b",
+        "doc_id": "axp-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "tection, data management, resiliency, data transfer, third party oversight, account access, AI & ML and information security and cybersecurity could increase our costs and affect or limit our business opportunities and how we collect, use and/or retain personal information. Legislators and regulators in the United Stat",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0164::fc2504d1",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "onsidering requirements to collect, store and/or process data within their borders, as well as prohibitions on the transfer of and access to data abroad, leading to technological and operational implications. Other jurisdictions have adopted or are otherwise considering adopting sector-specific regulations for the paym",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0132::9c205517",
+        "doc_id": "v-20250930",
+        "section": "Item 1A. Risk Factors",
+        "text": "company, we are subject to complex and evolving regulations that govern our operations. Such regulations may increase in quantity, complexity and scope in response to heightened geopolitical tensions. See Item 1 Government Regulation for more information on the most significant areas of regulation that affect our busin",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0062::93e0aaa7",
+        "doc_id": "ma-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "icial intelligence (AI) assets, technology, platforms and expertise. These products and services are designed to make commerce smarter, more secure and more personal. We follow our Data and Tech Responsibility Principles in how we design, implement and deliver those solutions. Our Privacy by Design, Data by Design and ",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0145::28fafc84",
+        "doc_id": "ma-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "yber incidents, such as the U.S. Securities and Exchange Commission (the SEC) disclosure rules that require, among other things, disclosing material cybersecurity incidents in a Current Report on Form 8-K, generally within four business days of determining an incident is material. In the EU, we are subject to the Gener",
+        "found_by": [
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "v-20250930::0123::5b2a5ceb",
+        "doc_id": "v-20250930",
+        "section": "Item 1A. Regulatory Risks",
+        "text": "ictions on seller routing choice for the debit and prepaid market segments. Other jurisdictions impose similar limitations, such as the IFRs prohibition in Europe on restrictions that prevent multiple payment brands or functionality on the same card. No-surcharge Rules: We have historically enforced rules that prohibit",
+        "found_by": [
+          "hybrid"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  },
+  {
+    "question": "Why does the company depend on banks to put its cards in customers' hands?",
+    "type": "conceptual",
+    "doc_hint": "ma",
+    "candidates": [
+      {
+        "chunk_id": "ma-20251231::0215::df63e9a0",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "conditions in global financial markets or their disintermediation by competitors or emerging technologies, as well as regulation. If our customers become financially unstable, we may lose revenue or we may be exposed to settlement risk. See Risk Factors - Settlement and Third-Party Obligations in this Part I, Item 1A w",
+        "found_by": [
+          "dense",
+          "sparse",
+          "hybrid"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0123::d351b487",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. for more detail about our revenue",
+        "text": "competitors both within and outside of the global payments industry. We compete in all categories of payments (including paper-based payments and all forms of electronic payments) as well as in all categories in which we provide services and solutions: General Purpose Payments Networks. We compete worldwide with paymen",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0361::724076b1",
+        "doc_id": "ma-20251231",
+        "section": "Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - NOTES TO CONSOL",
+        "text": "ilities strengthen, reinforce and complement each other and are fundamentally interdependent. For the global payments network, Mastercards franchise model sets the standards and ground-rules that balance value and risk across (and allows for interoperability among) all stakeholders. The Company employs a multi-layered ",
+        "found_by": [
+          "dense"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0191::27f7db24",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "xpenses and/or other operational impacts. Our future success will depend, in part, on our ability to anticipate, develop or adapt to technological changes and evolving industry standards. If we fail to sufficiently develop and adopt new technologies, or improve and keep pace with current technologies and reflect such t",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0214::b93b3acf",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "rt our programs and services. Furthermore, we depend on our issuing partners and acquirers to continue to innovate to maintain competitiveness in the market. We do not issue cards or other payment devices, extend credit to account holders or determine the interest rates or other fees charged to account holders. Each is",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0211::e926cd4c",
+        "doc_id": "ma-20251231",
+        "section": "Item 1A. RISK FACTORS",
+        "text": "nearly-exclusive, relationships with our competitors. These relationships may make it difficult or cost-prohibitive for us to do significant amounts of business with these customers to increase our revenues. In addition, these customers may be more successful and may grow faster than the customers that primarily issue ",
+        "found_by": [
+          "sparse"
+        ]
+      },
+      {
+        "chunk_id": "ma-20251231::0064::bb06c3a6",
+        "doc_id": "ma-20251231",
+        "section": "Item 1. BUSINESS",
+        "text": "ering people, with an aim toward building a sustainable economy where everyone prospers. Our impact strategy is expressed through three pillars - People, Prosperity and Planet - and the work we do is grounded in strong governance principles. We pursue these strategic goals because it is right for our business. When we ",
+        "found_by": [
+          "sparse"
+        ]
+      }
+    ],
+    "gold_chunk_ids": [],
+    "_verified": false
+  }
+]
