@@ -52,3 +52,23 @@ def search_endpoint(
 
     results = search(q, k=k)
     return {"query": q, "k": k, "results": results}
+
+
+class AskResponse(BaseModel):
+    question: str
+    answer: str
+    mode: str
+    sources: list
+
+
+@app.get("/ask", response_model=AskResponse)
+def ask_endpoint(
+    q: str = Query(..., description="Question"),
+    k: int = Query(5, ge=1, le=10),
+    mode: str = Query("hybrid", pattern="^(dense|sparse|hybrid)$"),
+):
+    """Grounded answer: retrieve top-k chunks and generate a cited answer."""
+    from generate import answer
+
+    result = answer(q, k=k, mode=mode)
+    return result.to_dict()
