@@ -36,6 +36,7 @@ class Source:
     doc_id: str
     section: str
     score: float
+    text: str
 
 
 @dataclass
@@ -78,7 +79,8 @@ def answer(question: str, k: int = 5, mode: str = "hybrid") -> GroundedAnswer:
 
     sources = [
         Source(n=i, chunk_id=r["chunk_id"], doc_id=r["doc_id"],
-               section=r["section"], score=r["score"]).__dict__
+               section=r["section"], score=r["score"],
+               text=r["text"][:400]).__dict__
         for i, r in enumerate(results, 1)
     ]
     return GroundedAnswer(question=question, answer=text, sources=sources, mode=mode)
