@@ -81,12 +81,13 @@ def get_embedding(text: str) -> Optional[np.ndarray]:
         return None
 
 
-def set_embedding(text: str, vec: np.ndarray) -> None:
+def set_embedding(text: str, vec) -> None:
     r = _client()
     if not r:
         return
     try:
-        r.setex(_key("emb", text), _EMBED_TTL, vec.astype("float32").tobytes())
+        arr = np.asarray(vec, dtype="float32")
+        r.setex(_key("emb", text), _EMBED_TTL, arr.tobytes())
     except redis.exceptions.RedisError:
         pass
 
