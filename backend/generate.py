@@ -61,6 +61,13 @@ def _build_context(results: list[dict]) -> str:
 def answer(question: str, k: int = 5, mode: str = "hybrid") -> GroundedAnswer:
     from google import genai
     from google.genai import types
+    import cache
+
+    # Serve identical (question, mode, k) from cache -- the LLM call dominates
+    # latency, so a repeat question goes from seconds to milliseconds.
+    cached = cache.get_answer(question, mode, k)
+    if cached:
+        return GroundedAnswer(**cached)
 
     results = search(question, k=k, mode=mode)
     context = _build_context(results)
@@ -83,7 +90,9 @@ def answer(question: str, k: int = 5, mode: str = "hybrid") -> GroundedAnswer:
                text=r["text"][:400]).__dict__
         for i, r in enumerate(results, 1)
     ]
-    return GroundedAnswer(question=question, answer=text, sources=sources, mode=mode)
+    result = GroundedAnswer(question=question, answer=text, sources=sources, mode=mode)
+    cache.set_answer(question, mode, k, result.to_dict())
+    return result
 
 
 if __name__ == "__main__":

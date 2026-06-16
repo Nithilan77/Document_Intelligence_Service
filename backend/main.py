@@ -59,6 +59,7 @@ class AskResponse(BaseModel):
     answer: str
     mode: str
     sources: list
+    cached: bool = False
 
 
 @app.get("/ask", response_model=AskResponse)
@@ -66,9 +67,70 @@ def ask_endpoint(
     q: str = Query(..., description="Question"),
     k: int = Query(5, ge=1, le=10),
     mode: str = Query("hybrid", pattern="^(dense|sparse|hybrid)$"),
+    no_cache: bool = Query(False, description="Bypass the answer cache"),
 ):
-    """Grounded answer: retrieve top-k chunks and generate a cited answer."""
+    """Grounded answer: retrieve top-k chunks and generate a cited answer.
+
+    Checks the answer cache first; a hit skips retrieval and the LLM call.
+    """
+    import cache as _cache
     from generate import answer
 
-    result = answer(q, k=k, mode=mode)
-    return result.to_dict()
+    if not no_cache:
+        hit = _cache.get_answer(q, mode, k)
+        if hit is not None:
+            hit["cached"] = True
+            return hit
+
+    result = answer(q, k=k, mode=mode).to_dict()
+    result["cached"] = False
+    _cache.set_answer(q, mode, k, result)
+    return result
+
+
+@app.post("/documents")
+async def upload_document(filename: str = Query(..., description="HTML filing in data/")):
+    """Enqueue async ingestion of an HTML filing already placed in data/.
+
+    Returns a job id immediately; embedding runs in the arq worker so the API
+    stays responsive during the ~30-60s embed. Poll /jobs/{id} for status.
+    """
+    from pathlib import Path
+
+    from arq import create_pool
+    from arq.connections import RedisSettings
+
+    data_dir = Path(__file__).resolve().parent.parent / "data"
+    path = data_dir / filename
+    if not path.exists():
+        return {"status": "error", "reason": f"{filename} not found in data/"}
+
+    redis = await create_pool(RedisSettings.from_dsn(REDIS_URL))
+    job = await redis.enqueue_job("ingest_document", str(path))
+    return {"status": "enqueued", "job_id": job.job_id, "filename": filename}
+
+
+@app.get("/jobs/{job_id}")
+async def job_status(job_id: str):
+    """Poll an ingestion job's status/result."""
+    from arq import create_pool
+    from arq.connections import RedisSettings
+    from arq.jobs import Job
+
+    redis = await create_pool(RedisSettings.from_dsn(REDIS_URL))
+    job = Job(job_id, redis)
+    status = await job.status()
+    result = None
+    try:
+        if str(status) == "JobStatus.complete":
+            result = await job.result(timeout=1)
+    except Exception:
+        result = None
+    return {"job_id": job_id, "status": str(status), "result": result}
+
+
+@app.get("/cache/stats")
+def cache_stats_endpoint():
+    """Cache introspection for the benchmark/README."""
+    import cache as _cache
+    return _cache.cache_stats()

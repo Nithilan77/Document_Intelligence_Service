@@ -70,10 +70,26 @@ def _format(chunk: dict, score: float) -> dict:
 
 
 def _dense_ranking(query: str, depth: int) -> list[tuple[str, float]]:
-    """Return [(chunk_id, score)] for the top `depth` dense hits."""
+    """Return [(chunk_id, score)] for the top `depth` dense hits.
+
+    Checks the embedding cache before running MiniLM; on miss, encodes and
+    caches. Cache is best-effort -- failures fall through to encoding.
+    """
     _ensure_dense()
-    q = _model.encode([query], normalize_embeddings=True,
-                      convert_to_numpy=True).astype("float32")
+    try:
+        import cache
+        cached = cache.get_embedding(query)
+    except Exception:
+        cache = None
+        cached = None
+    if cached is not None:
+        # cache stores a plain list; rebuild the (1, dim) float32 array
+        q = np.asarray(cached, dtype="float32").reshape(1, -1)
+    else:
+        q = _model.encode([query], normalize_embeddings=True,
+                          convert_to_numpy=True).astype("float32")
+        if cache is not None:
+            cache.set_embedding(query, q[0].tolist())
     scores, idxs = _index.search(q, depth)
     out = []
     for score, idx in zip(scores[0], idxs[0]):
