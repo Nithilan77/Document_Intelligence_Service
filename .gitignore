@@ -5,6 +5,7 @@ __pycache__/
 .venv/
 venv/
 .pytest_cache/
+Filing_Intelligence_Study_Guide.docx
 
 # --- Secrets ---
 .env
